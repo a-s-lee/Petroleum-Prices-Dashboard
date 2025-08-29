@@ -22,9 +22,7 @@ The Power BI dashboard provides:
 - **Interactive filters** for region, fuel type, formulation, and time range.  
 - **Time series analysis** of average fuel prices throughout 2024.  
 
-Here is a preview of the dashboard I created:  
-
-![Dashboard Preview](./b54dc594-b65d-4412-9b08-8bb0c3252911.png)  
+Here is a preview of the dashboard I created: <img width="3745" height="2350" alt="Petroleum_Dashboard-1" src="https://github.com/user-attachments/assets/d2636684-07d6-43a9-8d7c-6687d8fb79c7" />
 
 ## Files in this Repository  
 - `Excel_Data/` → Raw petroleum data (Excel format).  
